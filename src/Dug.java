@@ -2,7 +2,7 @@ package src;
 
 public class Dug extends Animal {
 
-    public Dug(String name, int age, double weight, String color) {
+    public Dug(String name, int age, int weight, String color) {
         super(name, age, weight, color);
     }
 
