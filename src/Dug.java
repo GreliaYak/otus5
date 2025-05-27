@@ -7,7 +7,7 @@ public class Dug extends Animal {
     }
 
     @Override
-    public void say() {
+    public void Say() {
         System.out.println("Кря");
     }
 

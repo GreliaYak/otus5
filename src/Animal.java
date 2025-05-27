@@ -90,6 +90,9 @@ public class Animal (){
 
     public void fly() {
             void fly();
+
+            public void Say(String) {
+                void Say();
         }
 
         // add list

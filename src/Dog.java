@@ -7,7 +7,8 @@ public class Dog extends Animal{
         super(name, age, weight, color);
 
         // Создание класса Dog, наследуемого от Animal
-            @Override void Say() {
+            @Override
+        void Say() {
                 System.out.println("Гав");
             }
         }
