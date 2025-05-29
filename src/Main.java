@@ -12,7 +12,6 @@ public class Main {
         System.out.println(animal1.toString());
         System.out.println(animal2.toString());
 
-        System.out.println(Fly.Flying);
 
     }
 }

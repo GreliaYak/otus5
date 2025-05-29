@@ -11,7 +11,7 @@ public class Duck extends Animal implements Fly {
         System.out.println("Кря");
     }
 
-    @Override public boolean isFlying() {
+    @Override public boolean  Fly() {
         return false;
     }
 
