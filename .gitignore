@@ -1,6 +1,5 @@
 # Default ignored files
 /shelf/
-/.idea/workspace.xml
 # Ignore compiled files and IDE settings for Java projects
 target/
 .vscode/
