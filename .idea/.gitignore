@@ -1,3 +1,19 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Ignore compiled files and IDE settings for Java projects
+target/
+.vscode/
+.idea/
+*.iml
+*.class
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+
+# Ignore OS-specific hidden files
+.DS_Store
+Thumbs.db
