@@ -1,8 +1,10 @@
 # Ignore compiled files and IDE settings for Java projects
 ../out/production/otus5/.idea/
+.idea/
 *.xml
 *.iml
 *.class
+
 
 # Ignore logs and temporary files
 logs/
